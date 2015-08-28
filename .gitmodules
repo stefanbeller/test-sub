@@ -1,0 +1,6 @@
+[submodule "2"]
+	path = git-2.0
+	url = https://github.com/git/git
+[submodule "git-1.0"]
+	path = git-1.0
+	url = https://github.com/git/git
